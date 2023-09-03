@@ -70,6 +70,7 @@ body{
     left: 85px;
     transition: all 0.5s ease-in-out;
     opacity: 0.7;
+    filter: drop-shadow(5px 5px 10px #555);
 }
 
 
